@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this homework, you will recreate a "jigsaw" puzzle using only HTML and CSS. Given a reference image, you will create a grid of rectangles and squares, and position them according to that image.
+In this homework, you will recreate a "jigsaw" puzzle using only HTML and CSS. Given a reference image, you will create a grid of rectangles and squares, and position them according to that image. The reference image is provided in the `CSS jigsaw puzzle.pdf` file, or in the description of the assignment on Learning Suite.
 
 The purpose of this assignment is get you good practice with coloring, sizing, and formatting while utilizing the essential CSS properties to do so. Add your CSS styles to the `styles.css` file as your solution. You do not NEED to edit any of the HTML to recreate the image but you MAY do so if you find a better solution for you.
 
