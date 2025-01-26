@@ -6,7 +6,7 @@ In this homework, you will recreate a "jigsaw" puzzle using only HTML and CSS. G
 
 The purpose of this assignment is get you good practice with coloring, sizing, and formatting while utilizing the essential CSS properties to do so. Add your CSS styles to the `styles.css` file as your solution. You do not NEED to edit any of the HTML to recreate the image but you MAY do so if you find a better solution for you.
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Do NOT change any styles in the `setup.css` file. This file ensures that the container and its content are displayed correctly.
 
 ---
@@ -26,7 +26,7 @@ The purpose of this assignment is get you good practice with coloring, sizing, a
    - Change the transform property (e.g., rotate, scale, translate)
 This is up to you, but make sure that the hover effect is noticeable and adds some interactivity to your puzzle. This is a great opportunity to be creative and show your ability to learn new CSS properties. You can find the documentation for the `:hover` pseudo-class [here](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover).
 
-> ![NOTE]
+> [!NOTE]
 > The `:hover` pseudo-class is just one of multiple pseudo-classes that we are going to learn this semester. This assignment is a great opportunity to learn the *low-hanging fruit* of pseudo-classes on your own.
 
 ---
